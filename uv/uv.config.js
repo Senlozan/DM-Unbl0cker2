@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/service/',
-    bare: 'https://collegeapp.me/v/',
+    bare: 'https://dashboard.render.com/blueprint/exs-cuhoj2bqf0us73bhn4p0/sync/exe-cuhoje2n91rc73c60la0',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
